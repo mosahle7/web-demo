@@ -1,0 +1,22 @@
+p{
+  color:red
+}
+#salutation{
+  color:pink;
+  font-family: 'Dancing Script', cursive;
+}
+.who{
+  background-color: #6099;
+  margin:0px;
+  padding: 25px
+}
+.fun{
+  background-color:yellow;
+  padding-left: 30px
+}
+body{
+  margin: 0px
+}
+#venue{
+  font-family: 'Lobster', cursive;
+}
